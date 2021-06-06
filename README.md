@@ -6,3 +6,4 @@
 [Course03-Python Categorical_features](https://github.com/peter650059/IMLP342/blob/main/Unit03/4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb)  
 [Course03-Python Prepocessing](https://github.com/peter650059/IMLP342/blob/main/Unit03/5_Prepocessing_%E5%AF%A6%E6%88%B0.ipynb)  
 [Course03-Python scikit_learn_Basic](https://github.com/peter650059/IMLP342/blob/main/Unit03/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb)  
+[Course04-Python Linear Regression H.W.](https://github.com/peter650059/IMLP342/blob/main/Unit04/Linear%20Regression_HW.ipynb)
